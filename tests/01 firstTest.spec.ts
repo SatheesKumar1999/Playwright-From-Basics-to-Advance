@@ -10,4 +10,4 @@ test('test one', async({page}) =>{
     // await page.getByText('Mobile Accessories').click()
 })
 
-//sathees0002, Satheesgithub@1234//
+//sathees0002, Satheesgithub@1234
